@@ -31,3 +31,7 @@ npm run azure
 # Alternativno ručno
 npm run build  
 func start
+
+# Potrebno nadodati
+.env datoteku
+u nju zapisati: COMMUNICATION_SERVICES_CONNECTION_STRING=endpoint=https://comsvc-iskap-test.europe.communication.azure.com/;accesskey=225YUN7QUiF5R69Rv9Ostm89TekBsQqOK4ECmIgcfpEBatXGYy72JQQJ99BEACULyCpkad6DAAAAAZCSaJwB
