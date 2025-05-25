@@ -7,7 +7,7 @@ export function MyTemplate() {
       <Text>Poštovani korisniče,</Text>
       <Hr />
       <Text>Imate 5 računa koji čekaju ovjeru.</Text>
-      <Button href="https://tvoja-stranica.com/ovjera">Ovjeri sada</Button>
+      <Button href="https://stranica.com/ovjera">Ovjeri sada</Button>
     </Html>
   );
 }

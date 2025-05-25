@@ -48,7 +48,7 @@ async function sendEmail() {
 }
 
 if (require.main === module) {
-  sendEmail(); // omogućuje ručno pokretanje preko npx ts-node
+  sendEmail(); 
 }
 
 export default sendEmail;
