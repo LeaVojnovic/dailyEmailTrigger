@@ -1,11 +1,8 @@
 # VS Code ekstenzije
-Azure Functions  
+
 Azurite
-Azure Account  
-Azure Resources  
 Azure Tools  
-ESLint  
-Prettier - Code formatter  
+
 
 # Instalacija paketa
 npm install
